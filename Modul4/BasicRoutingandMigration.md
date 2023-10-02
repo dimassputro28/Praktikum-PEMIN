@@ -4,7 +4,8 @@
 
 1. Untuk menambahkan endpoint dengan method GET pada aplikasi kita, kita dapat mengunjungi file web.php pada folder routes. Kemudian tambahkan baris ini pada akhir file
 ![Cuplikan layar 2023-09-26 231833](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/e5b666bd-ac7f-40ac-9183-925e3e6363b8)
-Setelah itu coba jalankan aplikasi dengan command,
+
+Setelah itu coba jalankan aplikasi dengan command, 'php -S localhost:8000 -t public'
 ![Cuplikan layar 2023-09-26 232024](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/1263ddc6-9981-492e-ab83-1c32e6f1596d)
 
 2. POST, PUT, PATCH, DELETE, dan OPTIONS
