@@ -1,10 +1,9 @@
-![13](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/4420f5c4-0d5f-4283-b48f-2c127290921c)![11](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/e67dedc9-c75b-46d3-81a2-629bcdd0543b)![6](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/1b767c67-a9a3-4b9b-91f0-b8abdef2de37)![4](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/97454902-888b-4981-8723-cf6d5665c435)![4](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/dc88a16a-f6d4-4361-b5aa-92bc8a0e2759)# Model, Controller dan Request-Response Handler
+# Model, Controller dan Request-Response Handler
 ### Model
 1. Memastikan adanya table users pada aplikasi.
 ![1](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/b7ab0320-bada-4194-b49e-3046dfd868c9)
 
-2. Mengganti isi dari file `User.php` pada path `app/Models`dengan
-   menggunakan sintkas dibawah ini.
+2. Mengganti isi dari file `User.php` pada path `app/Models`dengan menggunakan sintkas dibawah ini.
 ![2](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/0dcbc9a3-7e88-4b14-9b7c-9aa238f84422)
 
 ### Controller
